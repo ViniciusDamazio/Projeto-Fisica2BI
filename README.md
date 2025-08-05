@@ -6,6 +6,7 @@ Resolve um problema físico específico envolvendo a associação de capacitores
 
 O projeto possui dois arquivos JAVA. "ProjetoDeFisica" é a main e "Screen" é a classe.
 
+
 📸 Preview da Interface
 
 <img width="429" height="417" alt="calculadora" src="https://github.com/user-attachments/assets/ac88b527-ddfb-4c4e-a6d9-72878dfeabd5" />
