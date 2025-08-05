@@ -1,4 +1,4 @@
-# Projeto-Fisica2BI
+# Projeto Fisica 2BI
 
 🧮 Calculadora para o exercício 39 do capítulo 25 
 
